@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I'm a **Full-Stack Developer**, **Algorithmic Trading Bot Builder**, and **Web3/Crypto Enthusiast** passionate about building innovative solutions at the intersection of finance, blockchain, and artificial intelligence.
+I'm a **AI Full-Stack Developer**, **Algorithmic Trading Bot Builder**, and **Web3/Crypto Enthusiast** passionate about building innovative solutions at the intersection of finance, blockchain, and artificial intelligence.
 
 ### 💼 Professional Profile
 - **Status**: Self-Employed Tech Entrepreneur & Active Trader
@@ -39,7 +39,7 @@ I'm a **Full-Stack Developer**, **Algorithmic Trading Bot Builder**, and **Web3/
 - Risk Management Systems (1% per trade discipline)
 - Prop Trading Account Management
 
-### 💻 **Full-Stack Development**
+### 💻 **AI Full-Stack Development**
 - Frontend: TypeScript, React, Next.js
 - Backend: Node.js, Python, Express
 - Databases: SQL, NoSQL, Firebase
@@ -58,12 +58,12 @@ I'm a **Full-Stack Developer**, **Algorithmic Trading Bot Builder**, and **Web3/
 
 **Languages**
 ```
-JavaScript/TypeScript | Python | MQL5 | Pine Script | SQL | HTML/CSS
+JavaScript/TypeScript | Python | MQL5 | Pine Script | SQL | HTML/CSS | Many...
 ```
 
 **Frameworks & Libraries**
 ```
-React | Next.js | Express | Node.js | TensorFlow | FastAPI
+React | Next.js | Express | Node.js | TensorFlow | FastAPI | Many...
 ```
 
 **Tools & Platforms**
