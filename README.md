@@ -16,8 +16,7 @@
 I'm a **AI Full-Stack Developer**, **Algorithmic Trading Bot Builder**, and **Web3/Crypto Enthusiast** passionate about building innovative solutions at the intersection of finance, blockchain, and artificial intelligence.
 
 ### 💼 Professional Profile
-- **Status**: Self-Employed Tech Entrepreneur & Active Trader
-- **Location**: Tamil Nadu, India 🇮🇳
+- **Status**: Self-Employed Tech Enthusiast & Active Trader
 - **Focus**: Cryptocurrency Trading, Web3 Development, Algorithmic Trading Systems
 - **Experience**: 27+ Production & Open-Source Projects
 
