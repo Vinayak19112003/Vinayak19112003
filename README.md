@@ -174,6 +174,5 @@ I believe in building robust, scalable solutions while maintaining disciplined r
 
 ### ⭐ If you find value in my work, please consider starring my repositories!
 
-Made with ❤️ in Tamil Nadu, India 🇮🇳
 
 </div>
