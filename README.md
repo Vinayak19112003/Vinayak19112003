@@ -16,7 +16,7 @@
 I'm a **AI Full-Stack Developer**, **Algorithmic Trading Bot Builder**, and **Web3/Crypto Enthusiast** passionate about building innovative solutions at the intersection of finance, blockchain, and artificial intelligence.
 
 ### 💼 Professional Profile
-- **Status**: Self-Employed Tech Enthusiast & Active Trader
+- **Status**: Tech Enthusiast & Active Trader
 - **Focus**: Cryptocurrency Trading, Web3 Development, Algorithmic Trading Systems
 - **Experience**: 27+ Production & Open-Source Projects
 
@@ -33,10 +33,7 @@ I'm a **AI Full-Stack Developer**, **Algorithmic Trading Bot Builder**, and **We
 
 ### 📈 **Algorithmic Trading**
 - Trading Bot Development (MQL5, Python)
-- Market Structure & ICT Analysis
 - Automated Strategy Execution (NQ, Forex, Commodities)
-- Risk Management Systems (1% per trade discipline)
-- Prop Trading Account Management
 
 ### 💻 **AI Full-Stack Development**
 - Frontend: TypeScript, React, Next.js
@@ -121,7 +118,6 @@ Browser automation for cryptospace community engagement
 
 ## 📚 Learning & Growth
 
-- 📖 Mastering ICT (Inner Circle Trader) Methodology
 - 🎓 Advanced Smart Contract Security Auditing
 - 🔬 Machine Learning for Market Prediction
 - 💡 Prompt Engineering & AI Integration
@@ -149,7 +145,6 @@ Browser automation for cryptospace community engagement
 ✅ Crypto & DeFi consulting  
 ✅ Trading strategy discussions  
 ✅ Open-source contributions  
-✅ Mentorship & knowledge sharing  
 
 ---
 
