@@ -1,6 +1,14 @@
 # Vinayak Deshmuk
 
-I build AI-assisted software, developer tools, and data products with TypeScript and Python. I like turning complex workflows into useful, understandable tools.
+India. I build AI-assisted software, developer tools, and data products with TypeScript and Python. I like turning complex workflows into useful, understandable tools.
+
+## Model training / optimization
+
+I don't have a published fine-tuned model yet — I'm working toward that now, starting with the Halo post-training competition. What I can show today:
+
+- **Live Polymarket trading bot (Python)** — a real-money BTC up/down bot running on an EC2 box, trading every 15 minutes. 215 settled trades, 118 wins / 97 losses, net +$31.16, tallied on on-chain balance. The backtests behind it cover 400+ days of 15-minute windows, thousands of trades, with the same entry rules.
+- **Halo SFT demo** — in progress, link to follow.
+- **Python data pipelines** — live order-book collection, one-second market snapshots, and backtest harnesses built for the bot above.
 
 ## Selected work
 
@@ -11,8 +19,22 @@ I build AI-assisted software, developer tools, and data products with TypeScript
 
 ## Open source
 
-- **[NodeSecure/js-x-ray #720](https://github.com/NodeSecure/js-x-ray/pull/720)** · merged — Added an optional weak PBKDF2 detection probe to the JavaScript security scanner, with tests and documentation. Updated the implementation after maintainer review.
-- **[SpoonOS skills #22](https://github.com/XSpoonAi/spoon-awesome-skill/pull/22)** · merged — Contributed a read-only AI DeFi safety and swap simulation skill.
+12 merged PRs in other people's repos:
+
+- **[pylint-dev/pylint #11573](https://github.com/pylint-dev/pylint/pull/11573)** · merged — Fixed arguments-differ (W0221) missing positional-only parameters.
+- **[pylint-dev/pylint #11481](https://github.com/pylint-dev/pylint/pull/11481)** · merged — Fixed a crash in import-private-name on attribute access rooted at a non-Name node.
+- **[scikit-bio/scikit-bio #2604](https://github.com/scikit-bio/scikit-bio/pull/2604)** · merged — Corrected the dirmult_ttest q-value calculation description.
+- **[narwhals-dev/narwhals #3998](https://github.com/narwhals-dev/narwhals/pull/3998)** · merged — Fixed concat(how="diagonal") on DuckDB to use the relations' own connection.
+- **[skfolio/skfolio #507](https://github.com/skfolio/skfolio/pull/507)** · merged — Bias-corrected EWMA beta accumulators for late-listed assets.
+- **[skfolio/skfolio #338](https://github.com/skfolio/skfolio/pull/338)** · merged — Rejected MultiPeriodPortfolio mutations that misalign sample_weight.
+- **[pdm-project/pdm #3898](https://github.com/pdm-project/pdm/pull/3898)** · merged — Made `pdm install` interruptible with Ctrl+C.
+- **[online-ml/river #2017](https://github.com/online-ml/river/pull/2017)** · merged — Rejected constant scores in check_roc_auc.
+- **[NodeSecure/js-x-ray #720](https://github.com/NodeSecure/js-x-ray/pull/720)** · merged — Added an optional weak PBKDF2 detection probe to the JavaScript security scanner, with tests and documentation.
+- **[skrub-data/skrub #2319](https://github.com/skrub-data/skrub/pull/2319)** · merged — Fixed deduplicate failing on missing values.
+- **[aeon-toolkit/aeon #3850](https://github.com/aeon-toolkit/aeon/pull/3850)** · merged — Stopped COPOD predict from modifying the fitted PyOD model.
+- **[eslint-stylistic/eslint-stylistic #1289](https://github.com/eslint-stylistic/eslint-stylistic/pull/1289)** · merged — Added a jsx option for JSX-specific indent size.
+
+Also merged: **[XSpoonAi/spoon-awesome-skill #22](https://github.com/XSpoonAi/spoon-awesome-skill/pull/22)** — Contributed a read-only AI DeFi safety and swap simulation skill.
 
 **Working with:** TypeScript · Python · React/Next.js · AI APIs · data pipelines
 
