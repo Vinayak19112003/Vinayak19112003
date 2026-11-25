@@ -7,7 +7,7 @@ India. I build AI-assisted software, developer tools, and data products with Typ
 I don't have a published fine-tuned model yet — I'm working toward that now, starting with the Halo post-training competition. What I can show today:
 
 - **Live Polymarket trading bot (Python)** — a real-money BTC up/down bot running on an EC2 box, trading every 15 minutes. 215 settled trades, 118 wins / 97 losses, net +$31.16, tallied on on-chain balance. The backtests behind it cover 400+ days of 15-minute windows, thousands of trades, with the same entry rules.
-- **[Halo SFT demo](https://github.com/Vinayak19112003/halo-sft-demo)** — tiny Qwen3 SFT on CPU (TRL fallback, Halo needs a GPU): 24 chat examples, 12 steps, loss 11.93 → 10.96, eval 10.99. GPU run (Qwen3-4B LoRA, Halo) queued on Kaggle.
+- **[Halo SFT demo](https://github.com/Vinayak19112003/halo-sft-demo)** — real Qwen3-0.6B LoRA SFT on CPU (TRL, Halo needs a GPU): 100 chat examples, 12 steps, loss 2.36 → 0.85, eval 1.02. Also a tiny 20M-param smoke test (loss 11.93 → 10.96). GPU run (Qwen3-4B LoRA, Halo) queued on Kaggle.
 - **Python data pipelines** — live order-book collection, one-second market snapshots, and backtest harnesses built for the bot above.
 
 ## Selected work
